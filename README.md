@@ -1,6 +1,7 @@
 # Esp32 Biometric Notification System
 ```html
 This is an esp32 powered system intergrated with telegram and google sheets for logging whenever a user scans their fingerprint on the as608 fingerprint sensor
+Has an inbuilt web server that can be used to manage enroll, logs, user management
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Hardware Needed: 
