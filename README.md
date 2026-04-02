@@ -14,7 +14,7 @@ Hardware Needed:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Needed Libraries in Arduino ide : 
+Needed Libraries
 
 * Esp32 Board support package (in boards manager)
 * Adafruit Fingerprint sensor library
